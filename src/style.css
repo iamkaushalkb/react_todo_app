@@ -1,0 +1,57 @@
+/*Navbar*/
+
+
+/*EndNavbar*/
+
+
+/*Body*/
+
+.div_body {
+    margin-top: 5rem;
+    margin-left: 1rem;
+    margin-right: 1rem;
+}
+
+button {
+    font-family: 'Poppins', sans-serif !important;
+    border-radius: 20px!important;
+}
+
+.todo_list {
+    background-color: none;
+    margin-top: 1rem;
+}
+
+.todo_li {
+    list-style-type: none;
+    border-top: 0.5px solid #ead6d6;
+    padding-top: 1rem;
+    border-bottom: 0.5px solid #ead6d6;
+    padding-bottom: 1rem;
+    border-left: 0.5px solid #ead6d6;
+    padding-left: 1rem;
+    border-right: 0.5px solid #ead6d6;
+    padding-right: 1rem;
+    font-family: 'Poppins', sans-serif;
+}
+
+.todo_li_head {
+    list-style-type: none;
+    border-top: 0.5px solid #ead6d6;
+    padding-top: 1rem;
+    border-bottom: 0.5px solid #ead6d6;
+    padding-bottom: 1rem;
+    border-left: 0.5px solid #ead6d6;
+    padding-left: 1rem;
+    border-right: 0.5px solid #ead6d6;
+    padding-right: 1rem;
+    background-color: #1976D2;
+    color: #ffffff;
+    text-align: center;
+    font-weight: 600;
+    font-size: large;
+    font-family: 'Poppins', sans-serif;
+}
+
+
+/*Body*/
